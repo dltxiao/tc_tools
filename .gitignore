@@ -1,0 +1,11 @@
+# Python:
+*.pyc
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+*.xlsx
+env/
+dist
+build
+.vscode/
