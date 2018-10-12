@@ -9,3 +9,5 @@ env/
 dist
 build
 .vscode/
+output/
+templates/
