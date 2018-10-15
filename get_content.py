@@ -75,9 +75,9 @@ for i in range (first_line, ws.max_row):
 
 #document.save('test1.docx')
 
-doc = DocxTemplate("templates/template2.docx")
-context = {
-    'contents':records,
-}
-doc.render(context)
-doc.save("output/generated_doc5.docx")
+# doc = DocxTemplate("templates/template2.docx")
+# context = {
+#     'contents':records,
+# }
+# doc.render(context)
+# doc.save("output/generated_doc5.docx")
